@@ -1,6 +1,6 @@
 # Vault2Cert
 
-It requests a SSL certificate from a HashiCorp vault server and stores it to either
+It requests a SSL certificate from a HashiCorp vault server and stores it to either PEM files or JKS keystore.
 
 ## Usage
 
