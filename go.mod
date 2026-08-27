@@ -1,6 +1,6 @@
 module github.com/digitalis-io/vault2cert
 
-go 1.21.1
+go 1.27
 
 require (
 	github.com/hashicorp/vault-client-go v0.4.2
